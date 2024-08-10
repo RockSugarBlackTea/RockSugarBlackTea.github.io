@@ -1,2 +1,5 @@
-# newHomeWebPages
-一个新的个人主页,替我三次元的人设设计,也是开源GPL3.0协议
+# rocksugarblacktea的个人主页
+复刻自我虚拟世界的猫系xnh的仓库的代码
+灌注南秋SouthAki谢谢喵～
+## 该复刻仓库请勿用于master（针对自己注明）
+![GitHub pages](https://rocksugarblacktea.github.io)
